@@ -1,8 +1,8 @@
-# html_studey
-html공부
-23.02.13 시작
-
-<!-- HTML5 ver -->
+# html_study
+응답형 웹디자인&웹퍼블리셔양성과정버전기록
+23.02.13시작 -HTML
+..날짜제목요약
+<!-- HTML5 버전 -->
 <!doctype html> 
     <!-- html5 버전선언  -->
     <!-- 구조태그 html/head body -->
