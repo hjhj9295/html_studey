@@ -8,5 +8,7 @@
 <hr>
 <h2>23.02.14 - HTML 문서태그+내비게이션 개념 요약</h2>
   <hr>
-<p>em, strong, code, del, s, sub, sup, q, blockqoute, address </p>
+<p><em>em</em> <strong>strong</strong> code, <del>del</del>, <s>s</s>, <sub>sub</sub>, <sup>sup</sup>,q , address </p>
 <p>gnb, lnb, snb, fnb, Breadcrumbs </p>
+<blockquote cite="https://webty.tistory.com/85">
+  유나쌤 블로그 참고 - https://webty.tistory.com/85</blockquote>
