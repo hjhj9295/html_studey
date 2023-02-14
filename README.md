@@ -9,4 +9,4 @@
 <h2>23.02.14 - HTML 문서태그+내비게이션 개념 요약</h2>
   <hr>
 <p>em, strong, code, del, s, sub, sup, q, blockqoute, address </p>
-<p>gnb,lnb, snb, fnb, Breadcrumbs </p>
+<p>gnb, lnb, snb, fnb, Breadcrumbs </p>
