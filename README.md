@@ -12,3 +12,14 @@
 <p>gnb, lnb, snb, fnb, Breadcrumbs </p>
 <blockquote cite="https://webty.tistory.com/85">
   유나쌤 블로그 참고 - https://webty.tistory.com/85</blockquote>
+  <hr>
+ <h2>23.02.15 - HTML</h2>
+ <ol>
+    <li> ol 목록관련한 큰틀을 담당하는 코딩, <em>다른 코드는 li 아래에 적용할수있다</em></li> 
+    <li> ol 은 순서가있는 목록일때 쓴다</li>
+    <li> 2개이상의 목록이있을때 사용하고 같은페이지에 조건이 부합하지않으면 p로 대체</li>
+ </ol>
+ <ul>
+    <li> ul 목록관련한 큰틀을 담당하는 코딩, <em >다른 코드는 li 아래에 적용할수있다</em></li>
+    <li> ul은 순서가 없는 목록일때 쓴다</li>
+    <li> 2개이상의 목록이있을때 사용하고 같은페이지에 조건이 부합하지않으면 p로 대체</li>
