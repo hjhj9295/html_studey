@@ -12,7 +12,7 @@
 <blockquote cite="https://webty.tistory.com/85">
   유나쌤 블로그 참고 - https://webty.tistory.com/85</blockquote>
   <hr>
- <h2>23.02.15 - HTML</h2>
+ <h2>23.02.15 - HTML 순서있는목록 없는 목록 , 2단 ul , ol 추가, </h2>
  <ol>
     <li> ol 목록관련한 큰틀을 담당하는 코딩, <em>다른 코드는 li 아래에 적용할수있다</em></li> 
     <li> ol 은 순서가있는 목록일때 쓴다</li>
